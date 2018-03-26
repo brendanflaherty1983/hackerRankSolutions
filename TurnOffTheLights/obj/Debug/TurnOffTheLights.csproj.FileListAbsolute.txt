@@ -1,0 +1,5 @@
+c:\users\brendan\documents\visual studio 2015\Projects\TurnOffTheLights\TurnOffTheLights\bin\Debug\TurnOffTheLights.exe.config
+c:\users\brendan\documents\visual studio 2015\Projects\TurnOffTheLights\TurnOffTheLights\bin\Debug\TurnOffTheLights.exe
+c:\users\brendan\documents\visual studio 2015\Projects\TurnOffTheLights\TurnOffTheLights\bin\Debug\TurnOffTheLights.pdb
+c:\users\brendan\documents\visual studio 2015\Projects\TurnOffTheLights\TurnOffTheLights\obj\Debug\TurnOffTheLights.exe
+c:\users\brendan\documents\visual studio 2015\Projects\TurnOffTheLights\TurnOffTheLights\obj\Debug\TurnOffTheLights.pdb
